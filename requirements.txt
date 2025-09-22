@@ -4,3 +4,6 @@ numpy
 requests
 firebase_admin
 gunicorn
+flask_cors
+json
+os
